@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MyFiles">
+        <file>sounds/byte.mp3</file>
+    </qresource>
+</RCC>
